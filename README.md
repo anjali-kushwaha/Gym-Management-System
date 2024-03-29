@@ -24,4 +24,5 @@ The Gym Management System is a simple web application designed to help gym membe
    
 ## URL
 
-URL:
+URL:  https://anjali-kushwaha.github.io/Gym-Management-System/
+
